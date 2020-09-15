@@ -1,0 +1,40 @@
+INFO:root:walkthrough() called
+INFO:root:walkthrough() called
+INFO:root:StockAnalysis object created
+INFO:root:_get_data() called
+INFO:root:SPY.csv exists
+INFO:root:read_data_csv called
+INFO:root:_extract_years() called
+INFO:root:_extract_years() was not passed a dates argument
+INFO:root:plot_price_hisotry called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:root:plot_group_by_year() called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:root:daily_pct_change() called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:roll_pct_change() called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:root:plot_roll_pct_change() called
+INFO:root:corr_matrix_daily() called
+INFO:root:daily_pct_change() called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:root:plot_corr_matrix() called
+INFO:root:corr_matrix_roll() called
+INFO:root:daily_pct_change() called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:root:high_corr_filter() called
+INFO:root:plot_roll_corr_filter() called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:root:group_by_year() called
+INFO:root:_clean_length() called
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+rs, cast to the appropriate data type before plotting.
